@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Dirt.Models\Dirt.Models.csproj" />
+    <ProjectReference Include="..\Soil.Models\Soil.Models.csproj" />
+  </ItemGroup>
+
+</Project>
